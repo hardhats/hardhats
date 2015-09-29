@@ -29,5 +29,5 @@ History:
 * http://www.hardhats.org/history/hardhats.html
 
 Publications on MUMPS:
-http://www.ncbi.nlm.nih.gov/pubmed/?term=O%27Kane%20KC%5BAuthor%5D&cauthor=true&cauthor_uid=3522095
+* http://www.ncbi.nlm.nih.gov/pubmed/?term=O%27Kane%20KC%5BAuthor%5D&cauthor=true&cauthor_uid=3522095
 
