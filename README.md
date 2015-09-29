@@ -5,7 +5,7 @@ Welcome!
 Please add any issues, documents, or code here for collaborative development.
 
 
-#### Resources
+Resources:
 * http://www.hardhats.org
 * http://vistapedia.net
 * http://www.va.gov/vdl
