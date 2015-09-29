@@ -18,6 +18,11 @@ Code:
 Documentation:
 * http://www.va.gov/vdl
 * https://github.com/OSEHRA/VistA-Document-Library
+* http://code.osehra.org/vivian/vista_pkg_dep.php
+* http://www.vistapedia.com/index.php/HOWTO_Generate_Online_Documentation
+
+Tools:
+* http://www.hardhats.org/tools/TOOLSmain.html
 
 History:
 * http://munnecke.com/blog/?s=hardhats
