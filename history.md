@@ -48,6 +48,7 @@ In the age of the Internet, it is hard to realize how difficult software interch
 
 
 Michael Distaso
+
 "Committing portability", then, as Munnecke called it, was accomplished via error-prone 300-baud modems, and by physically carrying caketray-sized disk packs from one site to another. Under Marty Ivers' inspiration (and with the saintly benediction of his superior, John Peters), the six VA's of Northern California and Nevada were pioneers in learning how to transport and update applications systematically from one "Word Processor" to another. This was the milieu in which Timson invented the "DIFROM" portability tool -- "the gonads of FileMan", as he liked to call it. It was also where the unbounded energy and dedication of Michael Distaso first made itself felt, as he gradually took on an essential role in the design and implementation of the VA system.
 
 Especially through the MUMPS Users Group, the hardhats began to make their work known around the VA, and outside it. MUG began to offer FileMan on tape to its members. A German translation was made in Frankfurt. Word spread as far afield as Finland, where a consortium of universities and hospitals set about acquiring (and translating into Finnish) as much of the Kernel and the VA applications as they could. As the Finns like to say, "Finland adopted the VA software before the VA did".
@@ -57,8 +58,6 @@ But momentum was building within the agency. "The Enemy" was doing little to sat
 When Central Office ordered that several MUMPS programs actually be turned off, physicians who had begun to rely on them rebelled. The Executive Director of the National Association of VA Physicians (NAVAP), Dr. Paul Schafer, began to promote the MUMPS efforts in his role as advocate for the clinicians in the Medical Centers. A Washington journalist, Nancy Tomich, published in U.S. Medicine a series of muckraking articles like this one:
 
                                                             
-
- 
 Reporting that the use of MUMPS had been officially banned in the VA medical system, she wrote,
 What is clear is that this ban has produced some "undercover" development of clinical computer programs that use MUMPS...superior to the few systems now slated for installation.
 Congressional staffers began investigating. The VA's Chief Medical Director, Dr. Donald Custis, felt himself under pressure. The Administrator of the VA (newly appointed by the new President), and his bright young deputy Chuck Hagel, appeared willing to take a fresh look at things. Could the 'conspiracy' finally hope to make a bid for legitimacy?
@@ -71,23 +70,23 @@ Urged by Dr. Schafer, the Chief Medical Director paid a visit to the Washington 
  
 
 The conspiracy had a name.
+
 The controversy in the VA intensified in the fall of 1981. Tomich, on Page 1, likened it to the Cold War. Schafer kept the pressure up within NAVAP, and then began formulating a plan for a full-blown demonstration of the MUMPS applications, not to the D.C. bureaucracy, but to VA physicians themselves, from all over the country. Many would be attending the annual Symposium on Computer Applications in Medical Care at the Sheraton Washington in early November. A number of the MUMPSters, too, would be coming. The time was ripe to try for a publicity coup.
 
 In the days before SCAMC began, preparations were feverish. The hardhats trucked two microcomputers into a suite of rooms which NAVAP had rented in the hotel, and began loading them up with all the MUMPS applications in their arsenal. Spirits soared back to the level of excitement that had been felt three long years before in Oklahoma City. 
  
-
 Tom Munnecke, latching on to the 'Underground Railroad' identity, had "business cards" printed up with a choo-choo-train logo. Many a conspirator still treasures his card. "VIP" cards, given out to those whose friendship was sought, were specially laminated so that the boiler of the train's engine was represented by an actual half-inch-square microprocessor chip! On the afternoon that the Symposium began, Munnecke and Davis were granted a drawing-room session in the hotel with Dr. Custis, who of course was given a card. The story goes that during the whole ensuing "sales pitch", Custis sat looking at the card and rubbing his thumb over the embedded chip. A Computer!
 
 The "sale" was made, not to Custis so much as to the assemblage of VA physicians and administrators from around the country, who got to take a look at these MUMPS programs they had been hearing about. Several Symposium papers describing the "Underground" software also helped spread the word. By the end of the conference, the momentum had shifted in favor of the MUMPS work, and a month later Custis rescinded all orders to root out MUMPS computers in the VA.
 
 It remained, then, for the VA to officially legitimatize the MUMPS work. Two months later, Nancy Tomich got the scoop. The February 15, 1982 issue of U.S. Medicine headlined
 
-
 On February 18, 1982, Administrator Nimmo signed the Executive Order that set into motion what became DHCP -- the Decentralized Hospital Computer Program. A nationwide Task Group was constituted, on which sat Ivers, Lushene, Tatarczuk, and Bates. Its head was Dr. Dickie. The Underground Railway had come out of the tunnel.
 But now the conspirators had to live up to their press notices. Every hospital director in the system wanted the newly-sanctioned technology. Money was tight. Dozens of new MUMPS "converts", emerging all around the VA system, needed to be indoctrinated into the techno-culture of MUMPS and the Kernel that the Conspiracy had built up. Marina Bates and Ken Dickie spent 1982 in one long marathon effort to get as much hardware and software out to the field as possible, while the Hardhats worked long hours to get their software "ready for prime time". 
  
 
 Tom Munnecke
+
 It was a hard year -- and there would be more hard years to follow -- but by the time of the next SCAMC, November of 1982, Tom Munnecke was ready to "declare victory" over "The Enemy". At a banquet in Washington, the first of what would become a tradition of "Underground Railroad" dinners, Tom gleefully contrasted what the 'centralized' approach had produced, versus the achievements of the Hardhats:
 
 "Every one of their systems is A) totally dependent on a specific vendor, and B) incompatible with every other system they have developed. Every one of our systems is A) vendor independent, and B) compatible with every other of our systems. And they accuse us of helter-skelter development!"
