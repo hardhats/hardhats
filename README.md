@@ -2,7 +2,7 @@
 
 Welcome!
 
-Please join and add any issues, documents, or code here for collaborative development.
+Please add any issues, documents, or code here for collaborative development.
 
 ### Resources:
 * http://www.hardhats.org/
