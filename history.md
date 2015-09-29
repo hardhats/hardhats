@@ -1,10 +1,14 @@
 ##The History of the Hardhats
 
 By George Timson
-             
+http://www.hardhats.org/history/hardhats.html
+
 Part I. The Origins -- 1977-1978
+
 Part II. The Underground -- 1979-1981
+
 Part III. Becoming 'Legal' -- 1981-1982
+
 Part IV. Where Are They Now? -- 2015
 
 
