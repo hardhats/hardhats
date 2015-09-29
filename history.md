@@ -1,17 +1,14 @@
-
-   The History of the Hardhats
+##The History of the Hardhats
 
 By George Timson
              
- 
 Part I. The Origins -- 1977-1978
 Part II. The Underground -- 1979-1981
-
 Part III. Becoming 'Legal' -- 1981-1982
-
 Part IV. Where Are They Now? -- 2015
 
-Part I. The Origins -- 1977-1978
+
+###Part I. The Origins -- 1977-1978
 
 The profusion of names in what follows is essential to the story.  In the "Heroic Era" of the VA MUMPS effort, individuals time and again took a stand and made a difference -- many more stalwarts than can be named here. And anyone who is still involved with MUMPS ("M") today will recognize below the names of many long-time luminaries in the MUMPS community.
 The story begins with the ANSI Standardization of MUMPS. That Standardization, in 1977, was blessed by a Federal agency then called the National Bureau of Standards. Two key players in this blessing at NBS were Joseph (Ted) O'Neill and Marty Johnson. Late in 1977, they moved into a small office called "CASS" (Computer Assisted System Staff") within the VA's Department of Medicine and Surgery. There, they had the vision that MUMPS could be brought into the VA hospitals nationwide. With the help of a tireless Washington insider, Henry Heffernan, they set about making that vision come true.
@@ -35,7 +32,7 @@ All this time, however, there was a "real" department of computers in the VA, ad
 
 The landmark occasion of wagon-circling was a grand meeting -- CASS's last gasp, as it turned out -- which was held at the Oklahoma City VA Hospital in December. All the above-mentioned players (save for Heffernan, the eminence grise) appeared at this week-long conference. It was moderated by none other than Professor Richard Walters, long-time Chairman of the MUMPS Users Group and the MUMPS Development Committee. Much technical co-ordination and agreement occurred at this meeting, as the various planners, administrators, clinicians and developers met each other, and committed themselves to try to adhere to common software design standards. A true ethos of co-operation was forged in Oklahoma City that memorable week.
 
-Part II. The Underground --1979-1981
+###Part II. The Underground --1979-1981
 
 The optimism of the "Oklahoma City meeting" would soon be sorely tested. Within two months, the CASS office had been effectively dissolved, and several of its dispersed MUMPSters had been threatened with dismissal. In one case, in Columbia, Bob Wickizer went to lunch, and found, when he got back to his computer room, that his new PDP-11/70 had been unplugged and was in the process of being crated. By all accounts, the machine never again processed another instruction, anywhere. "The Enemy" had won -- or so it seemed. But, of the original MUMPSters, only a couple actually were forced out of the VA. CASS had seen to it that all its 'operatives' were part of the organization of the various hospitals in which they were located, rather than reporting to VA Central Office. Even Marty Johnson was able to find refuge at the Washington D.C. VA, although the computer he worked on was pretty much destroyed by a fire of suspicious origin a couple of years later! Ted O'Neill went into the fish business.
 Now began the three-year period of what was quite seriously called by its participants "The Conspiracy". Keeping up their esprit with weekly conference calls, seeing each other at annual MUMPS Users Group meetings, the various 'conspirators' plugged ahead, trying to make their work immediately useful to the Medical Centers in which they found themselves, while also trying to hold on to the goal of integrating their various efforts, through use of what Tom Munnecke dubbed the 'Kernel' software, into a comprehensive package that could one day be knit together.
@@ -61,7 +58,9 @@ When Central Office ordered that several MUMPS programs actually be turned off, 
 Reporting that the use of MUMPS had been officially banned in the VA medical system, she wrote,
 What is clear is that this ban has produced some "undercover" development of clinical computer programs that use MUMPS...superior to the few systems now slated for installation.
 Congressional staffers began investigating. The VA's Chief Medical Director, Dr. Donald Custis, felt himself under pressure. The Administrator of the VA (newly appointed by the new President), and his bright young deputy Chuck Hagel, appeared willing to take a fresh look at things. Could the 'conspiracy' finally hope to make a bid for legitimacy?
-Part III. Becoming 'Legal' -- 1981-1982
+
+
+###Part III. Becoming 'Legal' -- 1981-1982
 
 Urged by Dr. Schafer, the Chief Medical Director paid a visit to the Washington VA Hospital, six miles and a worldview away from Central Office. Here, where Marty Johnson had labored in long exile, a cadre of MUMPS-savvy programmers and clinicians had coalesced, including MUMPSters Dan Maloney and Chuck Leahey, and the head of Pulmonary Medicine, Ken Dickie, who had a strong vision of how computers could be knit into every aspect of patient care. Another MUMPS stalwart, Dr. Marina Bates, had been bringing up MUMPS modules in co-operation with them at a nearby Maryland VA. When Dr. Custis arrived, he was told by the Hospital Director of the "100%" support which the threatened patient-care modules enjoyed. Custis was shown the scope of the software, some modules home-grown, some imported from the other MUMPS sites, and then was heard to remark, "it sounds like an 'underground railway' has been at work--and doing good work". Nancy Tomich reported the whole confrontation in a mammoth U.S. Medicine article entitled
 
@@ -72,7 +71,6 @@ The controversy in the VA intensified in the fall of 1981. Tomich, on Page 1, li
 
 In the days before SCAMC began, preparations were feverish. The hardhats trucked two microcomputers into a suite of rooms which NAVAP had rented in the hotel, and began loading them up with all the MUMPS applications in their arsenal. Spirits soared back to the level of excitement that had been felt three long years before in Oklahoma City. 
  
-
 
 Tom Munnecke, latching on to the 'Underground Railroad' identity, had "business cards" printed up with a choo-choo-train logo. Many a conspirator still treasures his card. "VIP" cards, given out to those whose friendship was sought, were specially laminated so that the boiler of the train's engine was represented by an actual half-inch-square microprocessor chip! On the afternoon that the Symposium began, Munnecke and Davis were granted a drawing-room session in the hotel with Dr. Custis, who of course was given a card. The story goes that during the whole ensuing "sales pitch", Custis sat looking at the card and rubbing his thumb over the embedded chip. A Computer!
 
@@ -85,13 +83,14 @@ On February 18, 1982, Administrator Nimmo signed the Executive Order that set in
 But now the conspirators had to live up to their press notices. Every hospital director in the system wanted the newly-sanctioned technology. Money was tight. Dozens of new MUMPS "converts", emerging all around the VA system, needed to be indoctrinated into the techno-culture of MUMPS and the Kernel that the Conspiracy had built up. Marina Bates and Ken Dickie spent 1982 in one long marathon effort to get as much hardware and software out to the field as possible, while the Hardhats worked long hours to get their software "ready for prime time". 
  
 
-
 Tom Munnecke
 It was a hard year -- and there would be more hard years to follow -- but by the time of the next SCAMC, November of 1982, Tom Munnecke was ready to "declare victory" over "The Enemy". At a banquet in Washington, the first of what would become a tradition of "Underground Railroad" dinners, Tom gleefully contrasted what the 'centralized' approach had produced, versus the achievements of the Hardhats:
 
 "Every one of their systems is A) totally dependent on a specific vendor, and B) incompatible with every other system they have developed. Every one of our systems is A) vendor independent, and B) compatible with every other of our systems. And they accuse us of helter-skelter development!"
 It was all true, and a fateful sign of the Enemy's defeat was a key defection from its ranks. Around this same time, David Van Hooser moved from one side of the battle line to the other. After having seen the MUMPS effort from an antagonist's position, he became (like Saul after Damascus) perhaps its most powerful advocate within VA Central Office. Soon thereafter, he became head of the office administrating DHCP in Washington. From then on, to the very end of his lamentably short life, he devoted all his extraordinary intellectual energy and bureaucratic savvy to making a success of what the Underground Railroad had begun.
-Part IV. Where are they now? -- 2015
+
+
+###Part IV. Where are they now? -- 2015
 
 Tom Munnecke writes a blog at http://munnecke.com/blog/.
 
